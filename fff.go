@@ -4,5 +4,5 @@ import "fmt"
 
 func Qwe() {
 
-	fmt.Println("v0.1.0")
+	fmt.Println("v0.1.1")
 }
